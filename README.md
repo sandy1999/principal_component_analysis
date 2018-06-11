@@ -1,9 +1,9 @@
-# principal_component_analysis
-This repo contains a jupyter notebook describing how a pca is performed on a numpy in order to reduce its dimensionality of data features
+# Principal Component Analysis
+Pricipal Component Analysis is an important and common technique used in data science to reduce dimensionality in the data science models
 
 ## Dependencies 
-* (http://www.numpy.org/)[Numpy]
-* (scikit-learn.org/stable/index.html)[Sklearn]
+* [Numpy](http://www.numpy.org/)
+* [Sklearn](scikit-learn.org/stable/index.html)
 
 ## How to run 
 `jupyter notebook`
